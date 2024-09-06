@@ -1,0 +1,408 @@
+{
+  "heading": "Finding author’s purpose",
+  "topics": [
+    {
+      "heading": "Finding author’s purpose",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "My little sister is very _______ and never sits still.",
+          "options": [
+            {
+              "text": "sleepy"
+            },
+            {
+              "text": "quiet"
+            },
+            {
+              "text": "energetic"
+            },
+            {
+              "text": "bored"
+            }
+          ],
+          "answer": 2,
+          "explanation": "Someone who never sits still is full of energy, which means they're 'energetic.'"
+        },
+        {
+          "questionNo": 2,
+          "question": "Which sentence is missing a word with a capital letter?",
+          "options": [
+            {
+              "text": "Today we will visit the museum."
+            },
+            {
+              "text": "My friend lives in New york."
+            },
+            {
+              "text": "I love reading books before bed."
+            },
+            {
+              "text": "The dog barked loudly in the yard."
+            }
+          ],
+          "answer": 1,
+          "explanation": "'New york' should be 'New York' with both words capitalized because it is a proper noun referring to a specific place."
+        },
+        {
+          "questionNo": 3,
+          "question": "The magician tricks _______ the audience and the audience clapped with joy.",
+          "options": [
+            {
+              "text": "bored"
+            },
+            {
+              "text": "captivated"
+            },
+            {
+              "text": "confused"
+            },
+            {
+              "text": "scared"
+            }
+          ],
+          "answer": 1,
+          "explanation": "When something holds your attention completely, like amazing magic tricks, it has 'captivated' you."
+        },
+        {
+          "questionNo": 4,
+          "question": "Choose the incorrect spelling from the sentence: <br> '<span style=\"color: #007bff;\">The doctor gave me a prescription to help with my sore throate.</span>'",
+          "options": [
+            {
+              "text": "Prescription"
+            },
+            {
+              "text": "Throate"
+            },
+            {
+              "text": "Sore"
+            },
+            {
+              "text": "Help"
+            }
+          ],
+          "answer": 1,
+          "explanation": "The correct spelling is 'throat' (without 'e'). 'Throate' is incorrect because it has an extra 'e.'"
+        },
+        {
+          "questionNo": 5,
+          "question": "Which word means <br> <span style=\"color: #007bff;\">'happening once a year'</span>?",
+          "options": [
+            {
+              "text": "Daily"
+            },
+            {
+              "text": "Weekly"
+            },
+            {
+              "text": "Monthly"
+            },
+            {
+              "text": "Annual"
+            }
+          ],
+          "answer": 3,
+          "explanation": "'Annual' means something that happens once every year. For example: “Annual day in schools.”"
+        },
+        {
+          "questionNo": 6,
+          "question": "Fill in the correct word to complete the sentence:<br> <span style=\"color: #007bff;\">'I am feeling very ______ for our school picnic.'</span>",
+          "options": [
+            {
+              "text": "adventure"
+            },
+            {
+              "text": "excited"
+            },
+            {
+              "text": "fluffy"
+            },
+            {
+              "text": "grown"
+            }
+          ],
+          "answer": 1,
+          "explanation": "The sentence 'I am feeling very ______ for our school picnic' needs a word that describes a positive feeling about an upcoming event. 'Excited' means having a lot of enthusiasm and anticipation for something that is going to happen."
+        },
+        {
+          "questionNo": 7,
+          "question": "Why would someone write a guide on how to take care of a pet?",
+          "options": [
+            {
+              "text": "To entertain"
+            },
+            {
+              "text": "To inform"
+            },
+            {
+              "text": "To argue"
+            }
+          ],
+          "answer": 1,
+          "explanation": "The author’s purpose is to inform because the guide is giving helpful information on pet care."
+        },
+        {
+          "questionNo": 8,
+          "question": "What does <span style=\"color: #007bff;\">'enthusiasm'</span> mean?",
+          "options": [
+            {
+              "text": "Boredom"
+            },
+            {
+              "text": "Excitement"
+            },
+            {
+              "text": "Sleepiness"
+            },
+            {
+              "text": "Anger"
+            }
+          ],
+          "answer": 1,
+          "explanation": "'Enthusiasm' means strong excitement or interest in something."
+        },
+        {
+          "questionNo": 9,
+          "question": "What is the author’s purpose if they write a mystery story with a surprising ending?",
+          "options": [
+            {
+              "text": "To persuade"
+            },
+            {
+              "text": "To inform"
+            },
+            {
+              "text": "To entertain"
+            },
+            {
+              "text": "To confuse"
+            }
+          ],
+          "answer": 2,
+          "explanation": "The author’s purpose is to entertain because the mystery story is meant to be exciting and enjoyable."
+        },
+        {
+          "questionNo": 10,
+          "question": "If a book describes different types of dinosaurs, what is the author’s purpose?",
+          "options": [
+            {
+              "text": "To entertain"
+            },
+            {
+              "text": "To inform"
+            },
+            {
+              "text": "To persuade"
+            },
+            {
+              "text": "To argue"
+            }
+          ],
+          "answer": 1,
+          "explanation": "The author’s purpose is to inform because the book is providing facts about dinosaurs."
+        },
+        {
+          "questionNo": 11,
+          "question": "What does the word <span style=\"color: #007bff;\">'predicament'</span> mean?",
+          "options": [
+            {
+              "text": "A happy day"
+            },
+            {
+              "text": "A problem or difficult situation"
+            },
+            {
+              "text": "A place to play"
+            },
+            {
+              "text": "A special event"
+            }
+          ],
+          "answer": 1,
+          "explanation": "'Predicament' means a problem or difficult situation. It’s like when you’re stuck in a tough spot."
+        },
+        {
+          "questionNo": 12,
+          "question": "Choose the sentence that uses the word <span style=\"color: #007bff;\">'exclaimed'</span> correctly.",
+          "options": [
+            {
+              "text": "She exclaimed to the school."
+            },
+            {
+              "text": "He exclaimed his toy."
+            },
+            {
+              "text": "She exclaimed when she saw the puppy."
+            },
+            {
+              "text": "He exclaimed his book."
+            }
+          ],
+          "answer": 2,
+          "explanation": "'Exclaimed' means to say something loudly because you are excited or surprised."
+        },
+        {
+          "questionNo": 13,
+          "question": "What does the word <span style=\"color: #007bff;\">'contagious'</span> mean?",
+          "options": [
+            {
+              "text": "Can be shared easily"
+            },
+            {
+              "text": "Can be drawn"
+            },
+            {
+              "text": "Can be eaten"
+            },
+            {
+              "text": "Can spread from one person to another"
+            }
+          ],
+          "answer": 3,
+          "explanation": "'Contagious' means something that can spread from one person to another, like a cold."
+        },
+        {
+          "questionNo": 14,
+          "question": "What does <span style=\"color: #007bff;\">'newfound'</span> mean?",
+          "options": [
+            {
+              "text": "Something you just found"
+            },
+            {
+              "text": "Something you have lost"
+            },
+            {
+              "text": "Something you have always known"
+            },
+            {
+              "text": "Something you gave away"
+            }
+          ],
+          "answer": 0,
+          "explanation": "'Newfound' means something you have just discovered or found recently."
+        },
+        {
+          "questionNo": 15,
+          "question": "Choose the sentence that uses the word <span style=\"color: #007bff;\">'effort'</span> correctly.",
+          "options": [
+            {
+              "text": "She put a lot of effort into her painting."
+            },
+            {
+              "text": "She made an effort to the park."
+            },
+            {
+              "text": "She had an effort to her book."
+            },
+            {
+              "text": "She took an effort on the slide."
+            }
+          ],
+          "answer": 0,
+          "explanation": "'Effort' means trying hard to do something. Putting a lot of effort into painting means working hard on it."
+        },
+       
+        {
+          "questionNo": 16,
+          "question": "Choose the incorrect spelling from the sentence:<br><span style=\"color: #007bff;\"> \"My mom baked a delicious chocolatte cake for my birthday party.\"</span>",
+          "options": [
+            {
+              "text": "Delicious"
+            },
+            {
+              "text": "Chocolatte"
+            },
+            {
+              "text": "Baked"
+            },
+            {
+              "text": "Birthday"
+            }
+          ],
+          "answer": 1,
+          "explanation": "The correct spelling is \"chocolate\" (with one \"t\"). \"Chocolatte\" is incorrect because it has an extra \"t.\""
+        },
+        {
+          "questionNo": 17,
+          "question": "Which sentence best describes <span style=\"color: #007bff;\">\"constellations\"</span>?",
+          "options": [
+            {
+              "text": "Stars in the sky that form pictures"
+            },
+            {
+              "text": "Animals you see at the zoo"
+            },
+            {
+              "text": "The food you eat at lunch"
+            },
+            {
+              "text": "Books you read in class"
+            }
+          ],
+          "answer": 0,
+          "explanation": "\"Constellations\" are groups of stars that make pictures in the night sky."
+        },
+        {
+          "questionNo": 18,
+          "question": "Fill in the correct word to make a complete sentence:<br> <span style=\"color: #007bff;\">“Sam and Tom are ______ badly over the football game.”</span>",
+          "options": [
+            {
+              "text": "Happy"
+            },
+            {
+              "text": "Fighting"
+            },
+            {
+              "text": "Lifting"
+            },
+            {
+              "text": "Excitement"
+            }
+          ],
+          "answer": 1,
+          "explanation": "The sentence “Sam and Tom are ______ badly over the football game” needs a word that describes what Sam and Tom are doing negatively because of the football game. Fighting fits perfectly because it means they are arguing or having a conflict."
+        },
+        {
+          "questionNo": 19,
+          "question": "Which word describes something that can spread easily?",
+          "options": [
+            {
+              "text": "Eagerly"
+            },
+            {
+              "text": "Newfound"
+            },
+            {
+              "text": "Contagious"
+            },
+            {
+              "text": "Constellations"
+            }
+          ],
+          "answer": 2,
+          "explanation": "\"Contagious\" describes something that can spread from one person to another."
+        },
+        {
+          "questionNo": 20,
+          "question": "Which sentence correctly uses the idiom <br> <span style=\"color: #007bff;\">\"a real lemon\"</span>?",
+          "options": [
+            {
+              "text": "The new bicycle I bought turned out to be a real lemon it had several problems and didn't work well."
+            },
+            {
+              "text": "She wore a yellow dress that was a real lemon at the party."
+            },
+            {
+              "text": "The lemon pie was so delicious that everyone called it a real lemon."
+            },
+            {
+              "text": "The teacher said that the student was a real lemon for always asking questions."
+            }
+          ],
+          "answer": 0,
+          "explanation": "\"A real lemon\" is an idiom used to describe something that is defective or not working properly, especially when you expect it to be good. In this sentence, the bicycle is referred to as \"a real lemon\" because it had several problems and didn't function well."
+        }
+      ]
+    }
+  ]
+}
